@@ -1,4 +1,5 @@
 package org.stepic.level_1;
+import static java.lang.System.*;
 
 public class PrintTextPerRole {
     public static void main(String[] args) {
